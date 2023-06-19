@@ -8,6 +8,6 @@ This is a minimalist music player application implemented in Python using Tkinte
 
 **Keyboard Shortcuts**
 
-**Song Progress Bar**
+**~Song Progress Bar~**
 
 and more...
